@@ -1,81 +1,81 @@
 [[alsa]]
 arch = "armv7l"
-git-tree-sha1 = "23baf79e4a2d5fd898e39e1adffd2e55e83bc2d4"
+git-tree-sha1 = "c210a2d3f6447ae8185a1fbb88a5804834b95cda"
 libc = "glibc"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "f85ff93ff6cf16a16a0db8293ce58e1d3290c6f5a90881f6ca2cb2119cdcaa28"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+0/alsa.v1.2.1-1.arm-linux-gnueabihf.tar.gz"
-[[alsa]]
-arch = "x86_64"
-git-tree-sha1 = "cbfb620fe74d1f6790afc59eb63a68b47788b569"
-libc = "glibc"
-os = "linux"
-
-    [[alsa.download]]
-    sha256 = "53ae4f53873c36c98c3d2a8987b0f06dc9d82efbfaabc020424ec936bae650ab"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+0/alsa.v1.2.1-1.x86_64-linux-gnu.tar.gz"
-[[alsa]]
-arch = "aarch64"
-git-tree-sha1 = "a3fe7f94777c51b9b892df00a1bac2948c602767"
-libc = "glibc"
-os = "linux"
-
-    [[alsa.download]]
-    sha256 = "8019390eea43f1d6a6e0e4bef17703e0c9575676659c42c039222492158b1b16"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+0/alsa.v1.2.1-1.aarch64-linux-gnu.tar.gz"
+    sha256 = "96cd87451abfb95c26cc33b050f97f0cedf44f96e3412eedb08b4bb8e74aa775"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+1/alsa.v1.2.1-1.armv7l-linux-gnueabihf.tar.gz"
 [[alsa]]
 arch = "i686"
-git-tree-sha1 = "7047e56a428c808fdafdf21d1a5560cdb2a2e02f"
+git-tree-sha1 = "8b2d193d156d458e1a0251311f233e43d9b93d9b"
 libc = "musl"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "ff0f57215830604fbf51e3a61a8176d2507bc70c86d4a1ef21667040f2981683"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+0/alsa.v1.2.1-1.i686-linux-musl.tar.gz"
+    sha256 = "c92c42a7a1624524464eb1b0ec40da77fedb9d9496d0630e6576511c64a4db99"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+1/alsa.v1.2.1-1.i686-linux-musl.tar.gz"
 [[alsa]]
 arch = "aarch64"
-git-tree-sha1 = "60d9b963dd5393c16b0d5922b80ad345c632a798"
-libc = "musl"
-os = "linux"
-
-    [[alsa.download]]
-    sha256 = "9c9a934e4c97f21446fe08f861f994f14fd7574b95e6b6c3274d37b923c8a55d"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+0/alsa.v1.2.1-1.aarch64-linux-musl.tar.gz"
-[[alsa]]
-arch = "powerpc64le"
-git-tree-sha1 = "77b2277da9b871a58f29584fac3b4b372da7dac1"
+git-tree-sha1 = "97c1207832aed02589e9dfbb107958b250f60600"
 libc = "glibc"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "129461ae391c81fa579a8b4e42509638af445c8309ec0f7d96185f4993e6add1"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+0/alsa.v1.2.1-1.powerpc64le-linux-gnu.tar.gz"
-[[alsa]]
-arch = "i686"
-git-tree-sha1 = "194f54a2a0b5a1e5175658760cbb3c87dcf1b9a1"
-libc = "glibc"
-os = "linux"
-
-    [[alsa.download]]
-    sha256 = "7de369a4a60193bd77e0612d70078733cef3378718343f18bc036128734a069a"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+0/alsa.v1.2.1-1.i686-linux-gnu.tar.gz"
-[[alsa]]
-arch = "x86_64"
-git-tree-sha1 = "8c9733dcb5367fc3361995a33fce00fbc2793b8f"
-libc = "musl"
-os = "linux"
-
-    [[alsa.download]]
-    sha256 = "bae98bbda973c5671d8894231b5334cb5b54fbac79b4f4f6f7fe0f3ad55d4846"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+0/alsa.v1.2.1-1.x86_64-linux-musl.tar.gz"
+    sha256 = "715ad480bb62718976fd550d761cd45423330e0ba94db8e92547c5931d5b8256"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+1/alsa.v1.2.1-1.aarch64-linux-gnu.tar.gz"
 [[alsa]]
 arch = "armv7l"
-git-tree-sha1 = "e6853a012ad04a73557971f6fbae4492b1669d5b"
+git-tree-sha1 = "e7779930959f52abcff5a5a4fd5d5496c7d61a35"
 libc = "musl"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "aeeae492c3b575b95308813850c797678cb674b9fcd4817f9e15fd4f3c7ddeda"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+0/alsa.v1.2.1-1.arm-linux-musleabihf.tar.gz"
+    sha256 = "86c9b4a6f74e41a6b3942a672d8958daf2e5fefcc3b99b40a530700b98a2a16c"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+1/alsa.v1.2.1-1.armv7l-linux-musleabihf.tar.gz"
+[[alsa]]
+arch = "aarch64"
+git-tree-sha1 = "ef89d8cc17e08c29f32484bd8daa0cefa7615033"
+libc = "musl"
+os = "linux"
+
+    [[alsa.download]]
+    sha256 = "07570732dcf0301f8c2f9fa15da121d00e4330f1ec770943266fe6813a14f3f0"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+1/alsa.v1.2.1-1.aarch64-linux-musl.tar.gz"
+[[alsa]]
+arch = "i686"
+git-tree-sha1 = "53c58ad785310f08fcee592320045618ec2684de"
+libc = "glibc"
+os = "linux"
+
+    [[alsa.download]]
+    sha256 = "f0ac37cfc6757e2632412b6ae825445eb8ac7f986095e490a03c7fc65b717f14"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+1/alsa.v1.2.1-1.i686-linux-gnu.tar.gz"
+[[alsa]]
+arch = "x86_64"
+git-tree-sha1 = "bba1fded3bfec63014ef6899314a47dc3a3f0a1b"
+libc = "musl"
+os = "linux"
+
+    [[alsa.download]]
+    sha256 = "30d97771a5b47f51535f18a6b5fa24bcc69b8160c6f7c89212f66b23b3cee706"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+1/alsa.v1.2.1-1.x86_64-linux-musl.tar.gz"
+[[alsa]]
+arch = "x86_64"
+git-tree-sha1 = "46b9df6781e6826d2fbd3c23017fe912977e4f64"
+libc = "glibc"
+os = "linux"
+
+    [[alsa.download]]
+    sha256 = "2371beab3aefc91be842d96e4467ecd16e00a1194b1d498bc8df6ddb4bcc1322"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+1/alsa.v1.2.1-1.x86_64-linux-gnu.tar.gz"
+[[alsa]]
+arch = "powerpc64le"
+git-tree-sha1 = "d1e89703fa3e7511aec711eca1ecb1a54e7e50b1"
+libc = "glibc"
+os = "linux"
+
+    [[alsa.download]]
+    sha256 = "2f830658c43085ed404e2354f19810ff8088da51e480eb18834d1a6083547cb9"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.1-1+1/alsa.v1.2.1-1.powerpc64le-linux-gnu.tar.gz"
