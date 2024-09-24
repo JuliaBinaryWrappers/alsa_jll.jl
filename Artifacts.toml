@@ -1,103 +1,103 @@
 [[alsa]]
 arch = "aarch64"
-git-tree-sha1 = "e1ab1f655676fa6a9a377cabf4623449ab7ccfce"
+git-tree-sha1 = "b9e129b9362aa52c5fd88ba0b7d42791c428bcb2"
 libc = "glibc"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "031a500ac06a12b0cb83225baecc96fd41941378c0266488e5efc52071018609"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.5+0/alsa.v1.2.5.aarch64-linux-gnu.tar.gz"
+    sha256 = "1a367932626a346dc0c47dec267a172e1acb2dc3b1ef0af0ec07d854f63d6617"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.12+0/alsa.v1.2.12.aarch64-linux-gnu.tar.gz"
 [[alsa]]
 arch = "aarch64"
-git-tree-sha1 = "b5b46c73ef60627a69ced41ec616a503385fbc92"
+git-tree-sha1 = "53cdb7083405f8a07cb610a556217d6637974b8b"
 libc = "musl"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "958a461a164eb91957887e9c0b9bfe260a0e648e136118d03083ed34de72c959"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.5+0/alsa.v1.2.5.aarch64-linux-musl.tar.gz"
+    sha256 = "1130b259585e67270a758b4b33b57470fe1b9e7460caa4b1a7ae696d44e1ab6f"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.12+0/alsa.v1.2.12.aarch64-linux-musl.tar.gz"
 [[alsa]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9dbc2e833ef6c8a46b814bab8dd54750afc72c2e"
+git-tree-sha1 = "db79025e42543398df21b23c42207754ac65fe87"
 libc = "glibc"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "da6d4eb3dce2d6974cbca4447be734f0c2ae9f2884a3f6d245c57c2c9b1e14ca"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.5+0/alsa.v1.2.5.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "21db2ce7fb6f2abd2f20b5d10dfd6e330a877dc5ee7d76ca86c9c1b64789e56c"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.12+0/alsa.v1.2.12.armv6l-linux-gnueabihf.tar.gz"
 [[alsa]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "a343fe089e8566b4d0daa483e9e269f91a26d586"
+git-tree-sha1 = "4bf43eecc284606ad13eb8f3a2461cbf378a5151"
 libc = "musl"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "09c2c96f5afb007c2c47e7a3e23c7217d5479aad25d81fda59e1d8a549c859d2"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.5+0/alsa.v1.2.5.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "4559dcb25cec3e0c65422e5f63bf23acb2ee26ccdfb49ede1b98153556e5b83a"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.12+0/alsa.v1.2.12.armv6l-linux-musleabihf.tar.gz"
 [[alsa]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f47447b4f3364b3b5216e06da37a70dc0b49486f"
+git-tree-sha1 = "8f70b6ef33bcb3e8b92875e273df46d71c5e98a3"
 libc = "glibc"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "ffd2a64781b2bbe5bd0b200ccc3134e85029e858c84abd55090728e16c022e76"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.5+0/alsa.v1.2.5.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "fb10f0517a592c6d456b0f89d255b93e9be348481f2522145a945fdf0451efcc"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.12+0/alsa.v1.2.12.armv7l-linux-gnueabihf.tar.gz"
 [[alsa]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "dc8a264185ac9a9cac96bb0af6dae032ee6030a4"
+git-tree-sha1 = "6ee4610fc4d757a9da2ba80fd6348f98f59bfe2c"
 libc = "musl"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "81fc1382e704278b180d3c6906a75d63c19df5d07010b23b49d84df825a14a10"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.5+0/alsa.v1.2.5.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "3511235e4e67a797c2802f2df326176a10ac396b302dc03f83d79ebe2b50472a"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.12+0/alsa.v1.2.12.armv7l-linux-musleabihf.tar.gz"
 [[alsa]]
 arch = "i686"
-git-tree-sha1 = "03b769067354ab3e93477939ed0fd1f2ac424ad2"
+git-tree-sha1 = "825de878c4372ae77cf70acc3252247c9b65666b"
 libc = "glibc"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "56c995c2ba64a6a5e606b30c453e339ddc03b45692097e7efe41bc8298b99950"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.5+0/alsa.v1.2.5.i686-linux-gnu.tar.gz"
+    sha256 = "06852b69bf84e6001a8591ef94108358df7ab1ea72784e7f8a81de84dfcf8eb4"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.12+0/alsa.v1.2.12.i686-linux-gnu.tar.gz"
 [[alsa]]
 arch = "i686"
-git-tree-sha1 = "62bd8fcca983f27a42f5320256b13b95435f28e7"
+git-tree-sha1 = "be58ecbd99d58d7de08dc50c3051e968d3699423"
 libc = "musl"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "9091f48d2915e056ac9cb7b11299f6dc17491880a6807226edaaaa559df9ecd2"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.5+0/alsa.v1.2.5.i686-linux-musl.tar.gz"
+    sha256 = "1001567e892f3ea3c4fc95e7e69f01aabac4fcfa22d20b7a6c57d86a60355e95"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.12+0/alsa.v1.2.12.i686-linux-musl.tar.gz"
 [[alsa]]
 arch = "powerpc64le"
-git-tree-sha1 = "2dbd5e2c014ad3a0d794432a6abaa6a81fb0431e"
+git-tree-sha1 = "4998ce9d95e9e7270410bc5bf49424d35c56a567"
 libc = "glibc"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "c72fdcd8f221597346f56de71f9c1f586574ebbb5798fc515968ce23539e11dd"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.5+0/alsa.v1.2.5.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "705b634e61541341b49157757467833e5ac28be40fa8f365ce99d2b2edf9dd6d"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.12+0/alsa.v1.2.12.powerpc64le-linux-gnu.tar.gz"
 [[alsa]]
 arch = "x86_64"
-git-tree-sha1 = "4edb4cf557ab8f2b683aa1905a92c95edeacd609"
+git-tree-sha1 = "02ed1d6944753a8133b0eed16b66ee6d5627a273"
 libc = "glibc"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "d525bda3855b5244cbe5b7cf0f1c762a216d025557f503d09e80c5c9127d485f"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.5+0/alsa.v1.2.5.x86_64-linux-gnu.tar.gz"
+    sha256 = "5f2bc604433b248fefdcf297e5722166f0b70ee4cb1fcec059515c55724973c9"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.12+0/alsa.v1.2.12.x86_64-linux-gnu.tar.gz"
 [[alsa]]
 arch = "x86_64"
-git-tree-sha1 = "6c77b4c624c12dc4895e268366ba407e294bd688"
+git-tree-sha1 = "2773817698de2aba42ddf8ca8e022644298f7c53"
 libc = "musl"
 os = "linux"
 
     [[alsa.download]]
-    sha256 = "75a5100402fdf6f7c283e0c80d224161e1e117977264858dc6c29ae039cb84cb"
-    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.5+0/alsa.v1.2.5.x86_64-linux-musl.tar.gz"
+    sha256 = "03aee587f5e52bef2acc00c1ba46492f24d454d5d01a59fea342545f501156ef"
+    url = "https://github.com/JuliaBinaryWrappers/alsa_jll.jl/releases/download/alsa-v1.2.12+0/alsa.v1.2.12.x86_64-linux-musl.tar.gz"
