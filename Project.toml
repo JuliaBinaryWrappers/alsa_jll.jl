@@ -1,6 +1,6 @@
 name = "alsa_jll"
 uuid = "45378030-f8ea-5b20-a7c7-1a9d95efb90e"
-version = "1.2.13+0"
+version = "1.2.15+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

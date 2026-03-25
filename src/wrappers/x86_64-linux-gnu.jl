@@ -19,4 +19,6 @@ function __init__()
     )
 
     JLLWrappers.@generate_init_footer()
+    ENV["ALSA_CONFIG_DIR"] = get(ENV, "ALSA_CONFIG_DIR", joinpath(artifact_dir, "share", "alsa"))
+
 end  # __init__()
